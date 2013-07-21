@@ -8,4 +8,7 @@ package org.troy;
  * Email:kouhongyu@163.com<p/>
  */
 public class Test {
+    public static void main(String[] args) {
+
+    }
 }
