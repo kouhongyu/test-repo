@@ -11,6 +11,6 @@
     <title></title>
 </head>
 <body>
-<h2>z.feiyanbus.com 测试页面！！</h2>
+<h2>z.feiyanbus.com 测试页面！</h2>
 </body>
 </html>
